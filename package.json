@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^4.0.1",
+    "puppeteer": "^24.15.0"
+  }
+}
