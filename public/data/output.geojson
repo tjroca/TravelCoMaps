@@ -1,0 +1,2960 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3562698,
+          32.749485
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Shot Cellar",
+        "Google Maps": "https://maps.app.goo.gl/TnVcs3wg2h7cAW4P7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9024914,
+          32.89497
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "JOA Korean BBQ",
+        "Google Maps": "https://maps.app.goo.gl/P52xw9nnRsxWQvGv7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.291115,
+          28.2724391
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Epperson Lagoon",
+        "Google Maps": "https://maps.app.goo.gl/Ch2mooC5Nv2iZVvV8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5037496,
+          37.59718
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Taco Bell Cantina",
+        "Google Maps": "https://maps.app.goo.gl/cGaX5Ro6ZL89W75v5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8599826,
+          33.0750538
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Puttery",
+        "Google Maps": "https://maps.app.goo.gl/kPacSgqcFBTTAyhu5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7904291,
+          32.822315
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Georgie’s Butcher Shop",
+        "Google Maps": "https://maps.app.goo.gl/FHSgv5Xi69yNsinp8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8607891,
+          33.0664932
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "WorldSprings",
+        "Google Maps": "https://maps.app.goo.gl/jBC5NnLrW3AaopML6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.825853,
+          33.0832444
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Legacy Hall",
+        "Google Maps": "https://maps.app.goo.gl/i8rDZE3ewrZSQz6r7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1698892,
+          36.1225386
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Tao Beach Day Club",
+        "Google Maps": "https://maps.app.goo.gl/q3gpQZr9bHbzeCxF9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5383925,
+          36.4756593
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Valley of Fire State Park",
+        "Google Maps": "https://maps.app.goo.gl/s6Ghkf6yBzzjABBE7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1725027,
+          36.1120228
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Alexxa’s",
+        "Google Maps": "https://maps.app.goo.gl/6pVfYo5k4E4R6eRd6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1689737,
+          36.110467
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "La Salsa Cantina",
+        "Google Maps": "https://maps.app.goo.gl/iYa5bhp2tcsPuNMP8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.169416,
+          36.1109252
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Flights",
+        "Google Maps": "https://maps.app.goo.gl/bMzURhgwK9zYhkFt6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1693145,
+          36.110369
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Blondies",
+        "Google Maps": "https://maps.app.goo.gl/MDoXgFyuzhhf2yzK6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1448593,
+          36.1712434
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Whiskey Liquor Up",
+        "Google Maps": "https://maps.app.goo.gl/oKGdMVkKTXFB7euo9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1687929,
+          36.1140426
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Cabinet of Curiosities // The Lock Speakeasy",
+        "Google Maps": "https://maps.app.goo.gl/TBdRPbWmZnWQKNz6A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1738858,
+          36.1015506
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Bar at Times Square",
+        "Google Maps": "https://maps.app.goo.gl/jyTuqi4nzn8V4eVr7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1352622,
+          36.1768789
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Neon Museum Boneyard",
+        "Google Maps": "https://maps.app.goo.gl/VmbJwPdavYb6Bo9h6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1922452,
+          36.1260718
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Golden Tiki",
+        "Google Maps": "https://maps.app.goo.gl/XtTgkegdtoB116Lm6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1710313,
+          36.1164027
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Flamingo Wildlife Habitat",
+        "Google Maps": "https://maps.app.goo.gl/JSWqWKAfzqsZFGrFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.170881,
+          36.1180684
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "LINQ Promenade",
+        "Google Maps": "https://maps.app.goo.gl/csAn45XZFv99nvzT6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1740951,
+          36.1088439
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Museum of Illusions ",
+        "Google Maps": "https://maps.app.goo.gl/GLuoeqddZkEtGTi1A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1668263,
+          36.1263678
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Aft Cocktail Deck",
+        "Google Maps": "https://maps.app.goo.gl/oGhp8iY7VqsF2iu56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1765648,
+          36.1119912
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Bellagio Conservatory",
+        "Google Maps": "https://maps.app.goo.gl/pThqzBRsa349r7E6A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1753911,
+          36.1099462
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Beauty & Essex",
+        "Google Maps": "https://maps.app.goo.gl/DiTPbxtY5oYhzNBZ6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1753911,
+          36.1099462
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Ghost Donkey",
+        "Google Maps": "https://maps.app.goo.gl/ycYBH7BpDWoomQKH8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1754159,
+          36.10996
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "The Cosmopolitan",
+        "Google Maps": "https://maps.app.goo.gl/PQn8Jm7xcca8RjBbA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1594354,
+          36.1373971
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Fontainbleau",
+        "Google Maps": "https://maps.app.goo.gl/dPksAJ17cTjZY2CG6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1448235,
+          36.1699671
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Golden Nugget",
+        "Google Maps": "https://maps.app.goo.gl/ZYihoMVBABQLzqsR8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2956984,
+          32.4807153
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Tyler State Park Campgrounds",
+        "Google Maps": "https://maps.app.goo.gl/bdzUBNE5Eue6QJ3J7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1456448,
+          36.1722749
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Stadium Swim",
+        "Google Maps": "https://maps.app.goo.gl/xsPR6vqLk6WHsg8N7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.146861,
+          36.171784
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Plaza Hotel & Casino",
+        "Google Maps": "https://maps.app.goo.gl/ng4xusQPAPeV1sKn7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1768701,
+          36.0921553
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Swingers Club",
+        "Google Maps": "https://maps.app.goo.gl/vfwQCeMQPVVLyPcC7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1412718,
+          36.1694866
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Slotzilla",
+        "Google Maps": "https://maps.app.goo.gl/cqT4rLyeHGfGY1ds9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1685847,
+          36.1276769
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Happy Camper Pizza",
+        "Google Maps": "https://maps.app.goo.gl/d3EecysPkkjChTm38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1437062,
+          36.1698695
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Four Queens Bar",
+        "Google Maps": "https://maps.app.goo.gl/V8MjuFtMdV1xcFK26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7369268,
+          27.525803
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Sandbar Seafood",
+        "Google Maps": "https://maps.app.goo.gl/dbTiPdtKrq4Yk4PfA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8285559,
+          27.9787588
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Tommy’s Tiki Bar",
+        "Google Maps": "https://maps.app.goo.gl/ag62Yu9nBeEMfrDs6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8293431,
+          27.9697782
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Salty’s Island Bar & Grille",
+        "Google Maps": "https://maps.app.goo.gl/6Kv8n6ZP4dMB8DXK6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8303537,
+          27.9698408
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Crabby’s Dockside",
+        "Google Maps": "https://maps.app.goo.gl/jdThRDmNqJmybn3C7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8303537,
+          27.9698408
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Sandbar - Opal Sands Resort",
+        "Google Maps": "https://maps.app.goo.gl/jdThRDmNqJmybn3C7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.828181,
+          27.9728767
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Coco’s Crush Bar",
+        "Google Maps": "https://maps.app.goo.gl/YeBQwyAPytHMiMZw8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8279205,
+          27.9756117
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Jimmy’s Crows Nest",
+        "Google Maps": "https://maps.app.goo.gl/Aaq88nN4pydy8AAt5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8263582,
+          27.9767778
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Bar Tiki",
+        "Google Maps": "https://maps.app.goo.gl/1G1prMkQ2fNAHCKH7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3304116,
+          32.7514037
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Archibald",
+        "Google Maps": "https://maps.app.goo.gl/nBGkv9t8nY4g2D8X9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.326126,
+          32.7413916
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Buena Vida",
+        "Google Maps": "https://maps.app.goo.gl/YuYiw8yne7GLs4F39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7952505,
+          32.7872114
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Marriott Dallas Downtown",
+        "Google Maps": "https://maps.app.goo.gl/d87Dc4RuRy8dPrH46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9945831,
+          33.0155715
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "The Strand",
+        "Google Maps": "https://maps.app.goo.gl/dgCXTdKJFrSmq96P8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9007551,
+          39.7572861
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Four Friends Kitchen",
+        "Google Maps": "https://maps.app.goo.gl/QDvbNEmnitaiz8d57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.823658,
+          38.835847
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Shrunken Head Tiki Bar",
+        "Google Maps": "https://maps.app.goo.gl/PCYqBaWv9AqBEp4z7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.987989,
+          39.723625
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "The Wizard’s Chest",
+        "Google Maps": "https://maps.app.goo.gl/iHhvdN1T1aG2Xndi7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.980693,
+          39.74607
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Sweet Action",
+        "Google Maps": "https://maps.app.goo.gl/2EKVuqhNrDsfmuKD9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.999676,
+          38.9215816
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Mountain VRBO",
+        "Google Maps": "https://maps.app.goo.gl/V5LyHwcvEiNvTAVV9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.852257,
+          38.8970401
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Blackbeard Diner",
+        "Google Maps": "https://maps.app.goo.gl/M4Y5pBB7ya5zFaop6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8218954,
+          38.8356512
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Burnt Toast",
+        "Google Maps": "https://maps.app.goo.gl/hZA1MhUPn3JePW2u7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.356357,
+          32.7484344
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Shipwreck",
+        "Google Maps": "https://maps.app.goo.gl/DDPyoZLpfZesJcsH8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1298302,
+          32.7299987
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Mothership",
+        "Google Maps": "https://maps.app.goo.gl/mdEMt8h35sjpxr218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4527635,
+          28.463019
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Vault 5421",
+        "Google Maps": "https://maps.app.goo.gl/s6yCqk7KrM114avw5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7823741,
+          28.5247605
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Space Bar",
+        "Google Maps": "https://maps.app.goo.gl/HyRn6MiCqLUYfyXM6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3659072,
+          28.6180555
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Permanent Vacation",
+        "Google Maps": "https://maps.app.goo.gl/imjSnMyL9QbDGYBC8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9846936,
+          32.9200798
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Lupe Tortilla",
+        "Google Maps": "https://maps.app.goo.gl/xgzWAvanFkC7v9Uc8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7796175,
+          32.7989554
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "St. Martins Wine Bistro",
+        "Google Maps": "https://maps.app.goo.gl/pByRqXrj7TWrKzDg6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7844925,
+          27.7870523
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Bamboo Beach Bar",
+        "Google Maps": "https://maps.app.goo.gl/i9ZWcRhejedwEN1e8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.931258,
+          38.8560737
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Cog Railways",
+        "Google Maps": "https://maps.app.goo.gl/SQfyE9AAjQ78R9mj6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8080432,
+          32.7979468
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Catch Dallas",
+        "Google Maps": "https://maps.app.goo.gl/AuqeR5FMMgbNv8qz9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8727409,
+          32.9080703
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Two Guys From Italy",
+        "Google Maps": "https://maps.app.goo.gl/BfbckH6Emu499tedA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.849593,
+          29.2538627
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Best Western Plus Galveston Suites",
+        "Google Maps": "https://maps.app.goo.gl/b53wxhL5W1Pa7vqG8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7944114,
+          29.2859167
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Float Pool & Patio Bar",
+        "Google Maps": "https://maps.app.goo.gl/HQWaGXdbafcBRbMo8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7902046,
+          29.2875292
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Galveston Island Pier",
+        "Google Maps": "https://maps.app.goo.gl/upV95Jdei572vS7H7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7980051,
+          29.2836047
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Spot",
+        "Google Maps": "https://maps.app.goo.gl/2zVbmAbuZYf3gyuc9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7947919,
+          29.3077483
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Stuttgarden Tavern",
+        "Google Maps": "https://maps.app.goo.gl/i4nDtHMH7cirZzxQ8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7230549,
+          29.3824503
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Bolivar",
+        "Google Maps": "https://maps.app.goo.gl/tbzDJ4TUpnG6BPT79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.806,
+          29.332
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Pelican Island",
+        "Google Maps": "https://maps.app.goo.gl/Tf6f4CbAzSqdCjit7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9677778,
+          31.1458333
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Sahara Desert - ",
+        "Google Maps": "https://maps.app.goo.gl/g5HwNNiEkg53QeS29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5216013,
+          33.3943676
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Spaceport",
+        "Google Maps": "https://maps.app.goo.gl/9iT5cE6LQWUFTx4S7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5227617,
+          33.3950728
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Alien Zone",
+        "Google Maps": "https://maps.app.goo.gl/E8nerpSXuCuLRvfJ6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5233017,
+          33.4004594
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "McDonald’s UFO Theme",
+        "Google Maps": "https://maps.app.goo.gl/duGuxEzPbpcSWhtC6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5218015,
+          33.3940513
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Roswell UFO Spacewalk",
+        "Google Maps": "https://maps.app.goo.gl/3fMgQeqZMkNYUNbs7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5229602,
+          33.3936879
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "International UFO Museum ",
+        "Google Maps": "https://maps.app.goo.gl/8cnvznrSMP1WUsRLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9206875,
+          32.921068
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Museum of Space History",
+        "Google Maps": "https://maps.app.goo.gl/8EZNPyRqyohF5sHk8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3256816,
+          32.7872403
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "White Sands National Park",
+        "Google Maps": "https://maps.app.goo.gl/Do8vkdshEmxNeqo96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0635987,
+          32.9541984
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Riverwalk Cantina",
+        "Google Maps": "https://maps.app.goo.gl/icEV96p5Y7cZt1927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9408778,
+          32.9524728
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "The Sports Garden",
+        "Google Maps": "https://maps.app.goo.gl/znv9tqWmH5QNFyx96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7615921,
+          32.8599396
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Sandy Pickle",
+        "Google Maps": "https://maps.app.goo.gl/Vr1Qy487aPzQ3qbt5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7575131,
+          32.8369454
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Birdie’s Eastside",
+        "Google Maps": "https://maps.app.goo.gl/2qnbrdPmP5STu6df6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1322733,
+          32.8536168
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Time Rift Arcade",
+        "Google Maps": "https://maps.app.goo.gl/YkzgnWfcBrS7naPE9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7792103,
+          32.8157526
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Mayer’s Garden",
+        "Google Maps": "https://maps.app.goo.gl/yZ12GKQJxrXqjvcA9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7788316,
+          32.8154653
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Lawnie’s Bar",
+        "Google Maps": "https://maps.app.goo.gl/TAyenVAQKB32vVcm8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0591068,
+          32.9187853
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "DFW Founders Plaza",
+        "Google Maps": "https://maps.app.goo.gl/Kg8yk1YsqvKg5SLd9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7698622,
+          32.8117618
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "River Pig Saloon",
+        "Google Maps": "https://maps.app.goo.gl/i6yECCBT9477twiKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7143949,
+          32.8230587
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Smokey Rose",
+        "Google Maps": "https://maps.app.goo.gl/VpA3HGm1aQRkApZP9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7698515,
+          32.8141738
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "HG Supply",
+        "Google Maps": "https://maps.app.goo.gl/aZXe3S9ttSULrabVA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7845418,
+          32.8211286
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Barcelona Wine Bar",
+        "Google Maps": "https://maps.app.goo.gl/nMMBaUuTECRMSo9PA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7851818,
+          32.82663
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Chelsea Corner",
+        "Google Maps": "https://maps.app.goo.gl/BuBGfJRaqSmmJTuD8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9379268,
+          32.8697286
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Hugo’s Invitados",
+        "Google Maps": "https://maps.app.goo.gl/B8A6J3WkfbaRT8hA7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8109031,
+          32.7979113
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Tequila Social",
+        "Google Maps": "https://maps.app.goo.gl/8QhmCqgyQw4UJyfc6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8591957,
+          33.0739027
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Tiger Woods Mini Golf",
+        "Google Maps": "https://maps.app.goo.gl/bhZtgGjXJuNooyP2A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7682123,
+          29.7888167
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Home Run Dugout",
+        "Google Maps": "https://maps.app.goo.gl/LJfSDxKgJDbohnc47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.788384,
+          32.7841427
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "La Neta Cocina",
+        "Google Maps": "https://maps.app.goo.gl/amPjMukerP7iKPpX8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0373232,
+          32.6988076
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Boulder Adventure Park",
+        "Google Maps": "https://maps.app.goo.gl/s253ft9npX5wUKsu8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3492774,
+          47.6205063
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Space Needle",
+        "Google Maps": "https://maps.app.goo.gl/qze8BoXjYA2h6Jwo6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4861419,
+          29.4259671
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "The Alamo",
+        "Google Maps": "https://maps.app.goo.gl/yWnpSc4Z1iVxDRi2A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.068966,
+          29.954776
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Gateway Lounge",
+        "Google Maps": "https://maps.app.goo.gl/61LVMnHXjrFiZDvW7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0617214,
+          42.3574758
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Granary Burying Ground",
+        "Google Maps": "https://maps.app.goo.gl/ebeGRgwEqiTN7bQt6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4922428,
+          29.4249102
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Hugman’s Oasis",
+        "Google Maps": "https://maps.app.goo.gl/RjmvcXr2gZrgRwDz6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.822561,
+          21.2724386
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Tiki’s Grill and Bar",
+        "Google Maps": "https://maps.app.goo.gl/gzBtTCMACwywxuoF7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8258569,
+          21.2789059
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Tipsy Tiki",
+        "Google Maps": "https://maps.app.goo.gl/7Hqwte85gmTJK3ps6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8279919,
+          21.2785891
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Tour Bus",
+        "Google Maps": "https://maps.app.goo.gl/K4oCYfmJDQ6KFmcz9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9999643,
+          21.7022589
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Turtle Bay",
+        "Google Maps": "https://maps.app.goo.gl/XvpttzLeRbhaqpJM7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.806035,
+          21.2635356
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Diamond Head Crater Hike",
+        "Google Maps": "https://maps.app.goo.gl/tmwbk9pDnUGjzWhH9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.826707,
+          21.2762367
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Beach Bar",
+        "Google Maps": "https://maps.app.goo.gl/e8AhiuNNPvKAXddZ8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8286306,
+          21.2768056
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Mai Tai Bar",
+        "Google Maps": "https://maps.app.goo.gl/UrXSCs5Jqafa88CB9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8275909,
+          21.2771844
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Hula Grill Waikiki",
+        "Google Maps": "https://maps.app.goo.gl/DZzh4K92t3fHyhJx9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8259455,
+          21.2799149
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "King’s Mini Mart",
+        "Google Maps": "https://maps.app.goo.gl/MtZzgpEALfAWwe4x9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8241291,
+          21.2771325
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Pit Stop Tacos Burgers & Sliders",
+        "Google Maps": "https://maps.app.goo.gl/wRZtGH3YMzbBvNgw9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7993679,
+          21.28263
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Honolulu Burger Company",
+        "Google Maps": "https://maps.app.goo.gl/ZHi5oyoZhbGSWwWK7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8258861,
+          21.2757959
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Waikiki Beachside Bistro",
+        "Google Maps": "https://maps.app.goo.gl/iBzpHwbnAFCR5r3D8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.826918,
+          21.2762997
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Banyan Tree",
+        "Google Maps": "https://maps.app.goo.gl/izrJYX4FFbgUpg1F6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8214785,
+          21.2710896
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Honolulu Zoo",
+        "Google Maps": "https://maps.app.goo.gl/dYRKiixZJy8TCPAz5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4884851,
+          29.4256345
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Mad Dogs Bar",
+        "Google Maps": "https://maps.app.goo.gl/eJBe4sSStUrL1mYX7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3612333,
+          29.7620019
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Behind Closed Doors",
+        "Google Maps": "https://maps.app.goo.gl/y5ZVsGuHMfh9pefh7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4877274,
+          29.4256305
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Bier Garten",
+        "Google Maps": "https://maps.app.goo.gl/x2xv6VKrYs1CWjvf8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8204015,
+          33.0889348
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Hilton at Granite Park",
+        "Google Maps": "https://maps.app.goo.gl/fCSW9dScG5rCyKNj7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.132015,
+          32.943331
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Stella Ristorante ",
+        "Google Maps": "https://maps.app.goo.gl/QjNrzYo1GqAj5y2e6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.794656,
+          32.7806779
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Waterproof",
+        "Google Maps": "https://maps.app.goo.gl/HXWzYg8zV3DCEvJw7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7818037,
+          32.7838028
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Yellow Rosa Cocktaileria",
+        "Google Maps": "https://maps.app.goo.gl/mazHNXGFcEZ8NWuw9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.828201,
+          32.746781
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Christmas Bar Pop-Up",
+        "Google Maps": "https://maps.app.goo.gl/xRJ6utFKT32DiF1E9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8284655,
+          32.7484173
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Home Alone Christmas Sign",
+        "Google Maps": "https://maps.app.goo.gl/5dZv9VXY1Np2j3qMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8284655,
+          32.7484173
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Eno’s Pizza Tavern",
+        "Google Maps": "https://maps.app.goo.gl/5dZv9VXY1Np2j3qMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9630652,
+          32.8966533
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Loft Kitchen & Bar",
+        "Google Maps": "https://maps.app.goo.gl/sPWtWk2UYMAMDpdq7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9581441,
+          32.8611834
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Spirit Grille",
+        "Google Maps": "https://maps.app.goo.gl/UNpWHusTXqzcsE1C8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9584091,
+          32.8624174
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Outlaw Taproom",
+        "Google Maps": "https://maps.app.goo.gl/6zcf8kJWif5NLKt88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1714414,
+          36.1143923
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Giordano's",
+        "Google Maps": "https://maps.app.goo.gl/BJGhwW3K2EmEBz4i9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8055857,
+          32.7892021
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Henry Rooftop",
+        "Google Maps": "https://maps.app.goo.gl/7vt1vProjkSNsz1QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7090092,
+          44.4721563
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Sun and Ski Inn and Suites",
+        "Google Maps": "https://maps.app.goo.gl/MQB4Sfv4dWDynDBFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8255682,
+          21.2801606
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "White Sands Hotel",
+        "Google Maps": "https://maps.app.goo.gl/mXDxceYfrq8x1uAN7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1675744,
+          36.1036224
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "MGM Grand",
+        "Google Maps": "https://maps.app.goo.gl/tqMw32XbEogSeXhR6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8292799,
+          33.11537
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "The Canopy by Hilton - Frisco",
+        "Google Maps": "https://maps.app.goo.gl/29M6gXG4xitB7RfU9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8274457,
+          38.8111199
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Ivywild School",
+        "Google Maps": "https://maps.app.goo.gl/f9jaGC3yc2kjFZuP6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8585963,
+          38.8448168
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Old Colorado City",
+        "Google Maps": "https://maps.app.goo.gl/YjJ5ZwMDXuvBwCxM7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8216629,
+          38.8274307
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Homa",
+        "Google Maps": "https://maps.app.goo.gl/oU5LEGxXiq8Nu9s57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8243537,
+          38.826233
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "COATI",
+        "Google Maps": "https://maps.app.goo.gl/6M3vpkkcHJkmsQEe7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8792165,
+          38.7822827
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Seven Falls",
+        "Google Maps": "https://maps.app.goo.gl/o7TWktu8vs2QFo1r8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9203241,
+          38.8724919
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Cave of the Winds",
+        "Google Maps": "https://maps.app.goo.gl/UsqYbJuVtXLVwpMW8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4037428,
+          34.2943277
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "The Integratron",
+        "Google Maps": "https://maps.app.goo.gl/mwXDAfgUVM2AwJ7o9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8229839,
+          38.8354621
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Rabbit Hole",
+        "Google Maps": "https://maps.app.goo.gl/EQxuhgAgJnNACxR56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3967868,
+          29.7427448
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Roswell’s Saloon",
+        "Google Maps": "https://maps.app.goo.gl/b2XVw1zri4EGsd2W7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7157139,
+          44.4759272
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Alchemist",
+        "Google Maps": "https://maps.app.goo.gl/RJsbKxYeWS8aeFzH9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6849471,
+          44.4650968
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Stowe Cider",
+        "Google Maps": "https://maps.app.goo.gl/UtE2YqH6bACMTFwj7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6849471,
+          44.4650968
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Butler’s Pantry",
+        "Google Maps": "https://maps.app.goo.gl/UtE2YqH6bACMTFwj7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.795679,
+          44.5553294
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Smuggler’s Notch",
+        "Google Maps": "https://maps.app.goo.gl/Me5HbDPDTCE47mrY7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.740253,
+          44.3528529
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Ben & Jerry’s Factory",
+        "Google Maps": "https://maps.app.goo.gl/QjirEJ5Lte1ZeH5w7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686386,
+          44.465189
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Shaw’s General Store",
+        "Google Maps": "https://maps.app.goo.gl/VE5NcyKp5g4X2uFD6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6798674,
+          44.440383
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Emily’s Bridge",
+        "Google Maps": "https://maps.app.goo.gl/Qfv97zcZmYHLxqoA6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5930235,
+          29.562542
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Sushi Burrito",
+        "Google Maps": "https://maps.app.goo.gl/p54iitFsQSN7uVeF7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4911001,
+          29.4248421
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Thirsty Aztec",
+        "Google Maps": "https://maps.app.goo.gl/iQiZ54mRrRANMdW89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.486034,
+          29.4229737
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Riverwalk",
+        "Google Maps": "https://maps.app.goo.gl/ciNYLtSGvFGbK2jQ6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.17214,
+          36.1087863
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Taco Bell",
+        "Google Maps": "https://maps.app.goo.gl/QdNbR9q38X75u7kj9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1898532,
+          35.930063
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Exotics Racing",
+        "Google Maps": "https://maps.app.goo.gl/3K6D1U4xtvAjGzPz8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1815485,
+          36.1317582
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Area 15",
+        "Google Maps": "https://maps.app.goo.gl/zGjsAtG7HgW6w3bB9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.829521,
+          32.778836
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "ArtPark Trinity Groves",
+        "Google Maps": "https://maps.app.goo.gl/xYZ5UEVoaQGX9sHq7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8281765,
+          32.7481811
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Veracruz Cafe",
+        "Google Maps": "https://maps.app.goo.gl/JBDNbERWLCFt1J798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8006677,
+          32.7850611
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Dakota’s Steakhouse",
+        "Google Maps": "https://maps.app.goo.gl/FMH4nPo6svgvGBTJ9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8190583,
+          32.950981
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Sidecar Social",
+        "Google Maps": "https://maps.app.goo.gl/q3eJQVUduAJ8aFi27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7035531,
+          33.1319128
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Hub",
+        "Google Maps": "https://maps.app.goo.gl/GK6m9Ru2ZcHTuZnPA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7432153,
+          32.9434511
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Old 75 Beer Garden",
+        "Google Maps": "https://maps.app.goo.gl/qnRefPfZ812YJhDy8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.806245,
+          32.7923436
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Babou’s",
+        "Google Maps": "https://maps.app.goo.gl/syLtXM5dXCvyUXDL9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7858103,
+          32.7840765
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Truth & Alibi",
+        "Google Maps": "https://maps.app.goo.gl/CJqQwXtY5HJRCsc96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7858103,
+          32.7840765
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Cross Faded",
+        "Google Maps": "https://maps.app.goo.gl/CJqQwXtY5HJRCsc96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3593704,
+          32.7489579
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Bodega",
+        "Google Maps": "https://maps.app.goo.gl/dCHQ1WNKkGjsguon9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.825299,
+          32.9546338
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Magic Time Machine",
+        "Google Maps": "https://maps.app.goo.gl/RbAL83zJZq8P6uxWA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.828548,
+          33.1072228
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "The Glen Restaurant",
+        "Google Maps": "https://maps.app.goo.gl/JNzaVeCyeLf2knyP9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8073774,
+          32.7907445
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Te Deseo",
+        "Google Maps": "https://maps.app.goo.gl/PtPMWTms9QoULPLCA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791917,
+          32.7816333
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Sova Hospitality",
+        "Google Maps": "https://maps.app.goo.gl/hb7JWFZW2dUrqTYq7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8002243,
+          32.7816047
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Catbird",
+        "Google Maps": "https://maps.app.goo.gl/DSpjpPuBpYC9vz1o9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8281612,
+          32.7486675
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Revelers Hall",
+        "Google Maps": "https://maps.app.goo.gl/ZeE9jCBS9xeBSbaP8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8090303,
+          32.788653
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Villa Azur",
+        "Google Maps": "https://maps.app.goo.gl/wLd1UVNHTpx4VRzT7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8280443,
+          32.7465917
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Tejas",
+        "Google Maps": "https://maps.app.goo.gl/xVn2E3VxPC8g4gCo6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8268095,
+          33.0790161
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Kai",
+        "Google Maps": "https://maps.app.goo.gl/hkKayxxtzkY42nsMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.827834,
+          32.7467983
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Casa Blanca",
+        "Google Maps": "https://maps.app.goo.gl/EygX3mv1sZxw9YPWA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8085768,
+          32.7950254
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Elephant East",
+        "Google Maps": "https://maps.app.goo.gl/h33kf3wLDJ9eYEYt6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7623927,
+          32.8595274
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "La Mina",
+        "Google Maps": "https://maps.app.goo.gl/5DEaR8MqgA4zu2166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8279586,
+          32.748178
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Boulevardier",
+        "Google Maps": "https://maps.app.goo.gl/HTG1rJjJcSQinUzJA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1031771,
+          32.7343319
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Free Play - Arlington",
+        "Google Maps": "https://maps.app.goo.gl/93xQP6rZDdSKzbzc8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8281557,
+          32.7799443
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Free Play - Dallas",
+        "Google Maps": "https://maps.app.goo.gl/MeLsnQmt4nMX87Gf8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3340751,
+          32.7559196
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Rooftop Cinema Club",
+        "Google Maps": "https://maps.app.goo.gl/oqUSCYuiyU4b5Zj88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6791076,
+          33.2828254
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "D’Vine Grace Vineyard",
+        "Google Maps": "https://maps.app.goo.gl/fQGFXgUDe5NQahNYA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.825834,
+          33.0831929
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Box Garden",
+        "Google Maps": "https://maps.app.goo.gl/erBX12dijVV4LwKJA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0512911,
+          42.3521821
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "Wicked Lobsta",
+        "Google Maps": "https://maps.app.goo.gl/6WEojmxKGU3AZFGu8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8861757,
+          38.8717933
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Garden of the Gods",
+        "Google Maps": "https://maps.app.goo.gl/iDqqFSbTABdoxaox6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4915927,
+          29.4262737
+        ]
+      },
+      "properties": {
+        "Type": "Logistics",
+        "Name": "Hotel Valencia",
+        "Google Maps": "https://maps.app.goo.gl/Qjy82ceeEvEiGs9J6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1019288,
+          32.7379588
+        ]
+      },
+      "properties": {
+        "Type": "Things to eat",
+        "Name": "4 Kahunas",
+        "Google Maps": "https://maps.app.goo.gl/9t2zgesxwYLozZuM7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0554239,
+          42.3739796
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "USS Constitution",
+        "Google Maps": "https://maps.app.goo.gl/tGCE4HNzjrW123oo7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8911007,
+          42.5237196
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Salem Witch Museum",
+        "Google Maps": "https://maps.app.goo.gl/o8faxuBKtLfzPQLK8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8901536,
+          42.3279411
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Boston Light",
+        "Google Maps": "https://maps.app.goo.gl/zgn1gAsu3xuhq3cs5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0512911,
+          42.3521821
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Boston Tea Party Museum",
+        "Google Maps": "https://maps.app.goo.gl/6WEojmxKGU3AZFGu8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0537,
+          42.363739
+        ]
+      },
+      "properties": {
+        "Type": "Things to see",
+        "Name": "Paul Revere House",
+        "Google Maps": "https://maps.app.goo.gl/FJhSthnWGEnFpnQq5"
+      }
+    }
+  ]
+}

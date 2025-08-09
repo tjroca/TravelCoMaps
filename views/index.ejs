@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TravelCo Map</title>
+  <link rel="icon" href="/public/icons/globe-icon.png">
+  <script src='https://api.mapbox.com/mapbox-gl-js/v3.13.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v3.13.0/mapbox-gl.css' rel='stylesheet' />
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+    .mapboxgl-popup-content {
+      min-width: 275px;
+      background-color: #2A506E;
+      color: white;
+    }
+
+    .mapboxgl-popup-content a {
+      color: #fff;
+      text-decoration: none;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div id="map"></div>
+
+
+
+  <script>
+    // Import base map
+    mapboxgl.accessToken = "pk.eyJ1IjoidGp4MCIsImEiOiJjbWQ2MmlqY3EwNHljMm5vbHZwYTRoN3ZyIn0.wt9RW0z9LrI5_-YvdYMC6g";
+    const map = new mapboxgl.Map({
+      container: "map",
+      style: "mapbox://styles/tjx0/cmd65kkc400ek01s8huyy291a",
+      center: [-65.12, 21.64],
+      zoom: 2.2
+    });
+
+    map.on("load", () => {
+      map.addSource("places", {
+        "type": "geojson",
+        "data": `/data/output.geojson?ts=${Date.now()}`
+      });
+
+      // Load local images
+      map.loadImage("/icons/restaurant-11.svg", (error, image) => {
+        if (error) throw error;
+        map.addImage("restaurant-11", image);
+      });
+
+      map.loadImage("/icons/town-hall-11.svg", (error, image) => {
+        if (error) throw error;
+        map.addImage("town-hall-11", image);
+      });
+
+      map.loadImage("/icons/lodging-11.svg", (error, image) => {
+        if (error) throw error;
+        map.addImage("lodging-11", image);
+      });
+
+
+
+      // Layer for things to eat
+      map.addLayer({
+        "id": "places-to-eat",
+        "type": "symbol",
+        "source": "places",
+        "filter": ["==", ["get", "Type"], "Things to eat"],
+        "layout": {
+          "icon-image": "restaurant-11",
+          "icon-size": 1
+        }
+      });
+
+      // Layer for things to see
+      map.addLayer({
+        "id": "places-to-see",
+        "type": "symbol",
+        "source": "places",
+        "filter": ["==", ["get", "Type"], "Things to see"],
+        "layout": {
+          "icon-image": "town-hall-11",
+          "icon-size": 1
+        }
+      });
+
+      // Layer for hotels
+      map.addLayer({
+        "id": "hotels",
+        "type": "symbol",
+        "source": "places",
+        "filter": ["==", ["get", "Type"], "Hotel"],
+        "layout": {
+          "icon-image": "lodging-11",
+          "icon-size": 1
+        }
+      });
+
+      const layers = ["places-to-eat", "places-to-see", "hotels"];
+
+      // Create a popup but don’t add it to the map yet
+      const popup = new mapboxgl.Popup({
+        closeButton: true,
+        closeOnClick: true
+      });
+
+      // Attach click event to ALL layers
+      layers.forEach(layerId => {
+        map.on('click', layerId, (e) => {
+          const feature = e.features[0];
+
+          // Build popup HTML generically for all properties
+          let description = '<div>';
+          const keysToShow = ['Name', 'Google Maps'];
+
+          keysToShow.forEach(key => {
+            let value = feature.properties[key];
+            if (!value) return; // skip if no value
+
+            if (typeof value === 'string' && value.startsWith('http')) {
+              value = `<a href="${value}" target="_blank" rel="noopener noreferrer">${value}</a>`;
+            }
+
+            description += `<strong>${key}:</strong> ${value}<br/>`;
+          });
+
+
+          description += '</div>';
+
+          popup
+            .setLngLat(feature.geometry.coordinates)
+            .setHTML(description)
+            .addTo(map);
+        });
+
+        map.on('mouseenter', layerId, () => {
+          map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, () => {
+          map.getCanvas().style.cursor = '';
+        });
+      });
+
+
+
+    });
+  </script>
+</body>
+
+</html>

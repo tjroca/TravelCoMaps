@@ -148,9 +148,16 @@ async function main() {
     let destinationsGeoJSObj = await processNotionEntries(allDBEntries);
 
     // Write the GeoJSON object to a file
-    await fs.promises.writeFile('output.geojson', JSON.stringify(destinationsGeoJSObj, null, 2));
+    await fs.promises.writeFile('public/data/output.geojson', JSON.stringify(destinationsGeoJSObj, null, 2));
 
     // await uploadToMapbox(MAPBOX_API_KEY, destinationsGeoJSObj);
     
-} main();
+} // main(); // Run from server.js
 
+module.exports = async function() {
+    try {
+        await main();
+    } catch (error) {
+        console.error("Error in traveCo.js", error);
+    }
+}
