@@ -76,6 +76,7 @@
 
 
 
+      let iconSize = 2;
       // Layer for things to eat
       map.addLayer({
         "id": "places-to-eat",
@@ -84,7 +85,7 @@
         "filter": ["==", ["get", "Type"], "Things to eat"],
         "layout": {
           "icon-image": "restaurant-11",
-          "icon-size": 1
+          "icon-size": iconSize
         }
       });
 
@@ -96,7 +97,7 @@
         "filter": ["==", ["get", "Type"], "Things to see"],
         "layout": {
           "icon-image": "town-hall-11",
-          "icon-size": 1
+          "icon-size": iconSize
         }
       });
 
@@ -108,7 +109,7 @@
         "filter": ["==", ["get", "Type"], "Hotel"],
         "layout": {
           "icon-image": "lodging-11",
-          "icon-size": 1
+          "icon-size": iconSize
         }
       });
 
